@@ -1,0 +1,9 @@
+telebot
+yfinance
+mplfinance
+pandas
+MetaTrader5
+numpy
+matplotlib
+scikit-learn
+tensorflow
