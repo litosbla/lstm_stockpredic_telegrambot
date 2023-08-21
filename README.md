@@ -13,3 +13,6 @@ bot de telegram que usa lstm para predecir el par EUR/USD
 
 ```bash
 pip install -r requirements.txt
+```
+## Configuración
+1.Modifica un archivo llamado **config.json**  agregandole el token de Telegram al archivo. si no sabes como crear un bot de telegram visita el siguiente sitio 
